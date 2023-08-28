@@ -9,5 +9,5 @@ Price MONEY)
 DELETE FROM MasterMenu
 OUTPUT DELETED * INTO @RecordDeleted
 WHERE MenuItemId = 4;
-
-SELECT * FROM @RecordDelete
+i
+SELECT * FROM @RecordDeleted
