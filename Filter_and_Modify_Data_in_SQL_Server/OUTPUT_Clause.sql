@@ -10,4 +10,4 @@ DELETE FROM MasterMenu
 OUTPUT DELETED * INTO @RecordDeleted
 WHERE MenuItemId = 4;
 
-SELECT * FROM @RecordDelete
+SELECT * FROM @RecordDeleted
