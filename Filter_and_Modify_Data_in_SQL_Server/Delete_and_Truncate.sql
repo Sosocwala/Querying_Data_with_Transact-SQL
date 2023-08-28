@@ -1,0 +1,9 @@
+USE TestDB
+GO
+
+DELETE FROM TempUpdateMenu
+WHERE MenuItemID = 3
+GO
+
+TRUNCATE TABLE TempUpdateMenu
+GO
