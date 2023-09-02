@@ -7,4 +7,4 @@ UNPIVOT
 		(SalesPerson1, SalesPerson2, SalesPerson3, SalesPerson4) --Places the data into the
 																 --unpivoted columns
 ) AS UPT;
-GO
+G
