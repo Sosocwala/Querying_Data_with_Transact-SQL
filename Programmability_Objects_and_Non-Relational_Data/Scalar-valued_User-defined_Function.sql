@@ -13,4 +13,4 @@ DECLARE @EmpID INT
 SET @EmpID = 9
 
 EXEC @Results = fn_Emp_Sick_vs_Away @Epm = @EmpID
-SELECT 'Employee ' + CAST(@EmpID AS CHAR(3)) + 'Has ' + @Results AS Result
+SELECT 'Employee ' + CAST(@EmpID AS CHAR(3)) + 'Has ' + @Results AS Resul
