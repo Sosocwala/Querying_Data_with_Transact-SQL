@@ -12,5 +12,4 @@ DECLARE @Result MONEY
 EXEC SalesBetweenDates '1/1/2014' , '1/31/2014', @TotalSales = @Result OUTPUT
 
 --Reference the output parameter AFTER the execution of the stored procedure
-PRINT 'TOTAL Sales for that period were $' + CAST(@Results AS VARCHAR(10))
-
+PRINT 'TOTAL Sales for that period were $' + CAST(@Results AS VARCHAR(10)
