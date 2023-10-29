@@ -1,3 +1,3 @@
-USE AdventureWorks2019
+SE AdventureWorks2019
 SELECT [CustomerID],[PersonID],[AccountNumber]
 FROM [Sales].[Customer]
