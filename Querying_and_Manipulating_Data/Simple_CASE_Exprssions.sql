@@ -1,4 +1,5 @@
---Simple CASE Expression Logic
+--Simple CASE Expression Logi
+
 USE AdventureWorks2019
 GO
 DECLARE @Risck INT 
