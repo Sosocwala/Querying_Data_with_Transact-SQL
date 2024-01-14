@@ -1,4 +1,4 @@
---Simple CASE Expression Logi
+--Simple CASE Expression Log
 
 USE AdventureWorks2019
 GO
